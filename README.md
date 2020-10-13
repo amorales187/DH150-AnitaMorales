@@ -1,4 +1,4 @@
-# Creating an Accessible Library Website
+# Creating an Accessible Website for a Library 
 ## Assignment 1: Heuristic Evaluation
 ### Anita Morales | DH-150 | Fall 2020
 
