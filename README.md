@@ -21,7 +21,7 @@ Why I selected this website:
 
 Since their re-branding in 2017, LA County Library redesigned and reformatted their library. They also transitioned in to using a new catalog and user system. It was interesting to evaluate these changes and if they improved the experience for users.
 
- ![homepage](La county library home.png)
+ ![homepage](LaCounty_home.png)
  
 
 ### Evaluation
