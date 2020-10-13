@@ -41,3 +41,11 @@ Heuristic & Description |  Severity Rating | Improvement
 **Aesthetic and minimalist design:** Design is not cluttered, appealing, and accessible | **1:** Sections are seperated by different colors in the color theme. The fonts are stylstic but still are legible. | **No Improvement:** The colors boxes are 
 **Help users recognize, diagnose, and recover from errors:** Provides an error message and shares how to move forward. | **1:** Error notification appears when user cannot change location of book currently available to be picked up. It shares reason why and to contact library for further assistance. | **No Improvement:** Provides user with reason on error and provides suggestions on what to do next.
 **Help and documentation:** Have easily accesible help pages or a coachmark that show users how to use features and the website.| **3:** There is only an FAQ for Side Walk Services, downloading e-books, and an FAQ for library card holders. The website does not contain an FAQ for navigating the site or how to use the cataloge/ place items on hold. | **Improvement:** Have an FAQ for placing items on hold and using the catalogue. Also make the how- to  guides for online resources more accessible. 
+
+
+## Website 2: [Los Angeles Public Library](https://www.lapl.org/)
+
+
+
+
+ ![homepage](LA_home.png)
