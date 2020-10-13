@@ -26,9 +26,9 @@ Since their re-branding in 2017, LA County Library redesigned and reformatted th
 
 ### Evaluation
 
-Inital Evaulation: The website contains beautiful visual designs and color schemes. Overall, it is attractive and organizes their resources and services well.  
+**Inital Evaulation:** The website contains beautiful visual designs and color schemes. Overall, it is attractive and organizes their resources and services well.  
 
-Heuristic Evaluation:
+**Heuristic Evaluation:**
 Heuristic & Description |  Severity Rating | Improvement 
 --------------------------|---------------------------|------------
 **Visibility of system status:** The web/app gives the user feedback in a timely manner concerning the actions they are currently doing. | **2:** When user signs up for the newletter throught the forum, they get redirected to the homepage. The user has to scroll down to confirm if their information was correctly submitted and collected | **Improvement:** Provide the user with an explicit confirmation message (either through a pop-up or re-direct them to a confirmation page) about successfully joining the newsletter.
