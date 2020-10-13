@@ -18,5 +18,5 @@ Rating  | Importance  |
 The LA County Library is one of the largest library systems in the United States. It contains a total of 86 library branches that are spread throughout Los Angeles County and it serves about 3.4 million residents. Their website is full of resources, services, and information that is targeted for all ages and backgrounds.
 
 
- ![homepage](/images/La county library home.png)
+ ![homepage](La county library home.png)
 
