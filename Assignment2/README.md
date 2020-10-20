@@ -40,13 +40,17 @@ Flexibility and efficiency of use | Catalog iso verwhelming and lacks flexibilit
 ## Reflection
 
 **What I Learned**
+
 I learned about more problems that I oversaw when I completed the Heurstic Evaluation for the LA County Library website. For example, I observed that new pages would open when my particpant would access the catalog or online resources. I also discovered that the website had more problems with its consistency and standards in regards to its menu and functions. I also learned more about ways on how to improve my survey (e.g. how to better word questions and what other questions to add).
 
 **What Went Well**
+
 At first, I was concerned that the UT set up would overwhelm my participant, but she caught on quick and followed my directions. She was able to catch on to more problems on the website that my initial Heuristic EValuation did not find. She also provided me with another perspective of how she would use the website. 
 
 **What Did Not Go Well**
+
 I discovered that UT recording did not record any sound. My whole recording only captured the screen recording. 
 
 **Things to Improve**
+
 Many times I wanted to ask follow up questions to get my participant to share what she was observing on the screen. For example, based on her facial expressions and reactions, I would notice that she would see the website open new web pages and she did not like that. I also would like to improve holding back any non verbal communication that would signal I am approving my participants actions. I would sometimes find myself wanting to nod my head in agreeance when my partipant found something annoying. Most importantly, I will test new programs I use to ensure they record and capture sound.
