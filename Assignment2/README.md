@@ -34,12 +34,19 @@ Flexibility and efficiency of use | Catalog iso verwhelming and lacks flexibilit
 
 ## User Test Video 
 
-Click Here](https://drive.google.com/drive/folders/1Pa_Ugyt9HDDarhzB9AAgAMsOLGvabyxO?usp=sharing) to view my user test video on LA County Library's website.
+[Click Here](https://drive.google.com/drive/folders/1Pa_Ugyt9HDDarhzB9AAgAMsOLGvabyxO?usp=sharing) to view my user test video on LA County Library's website.
 
 
 ## Reflection
-Generally, the UT went smoothly with some minor problems that could have made the process a little better. The first is the two disturbances from my mom coming into the room, which I should have informed her about beforehand. The second is my patience being tested because the participant was not as vocal as I’d like her to be so I found the tone of my voice just a bit harsh. The awareness that she was being recorded probably made her conscious so I should be more considerate when it comes to participants who are less vocal. Also, my sister probably was not the best user to test since I would not consider her a target audience for this app. 
 
-I found myself guiding her through each task and wondered whether my words affected her thoughts. I tried to stay neutral and straightforward as possible without manipulating the conversation but I can see my explanations may hinder the process. I think this has a lot to be with my own preparation — I could have been clearer and more explicit when explaining the app and UT tasks since it felt like I was showing her the functions of the app or justifying the usability problems to her. Next time, I could try asking questions that invoke the user’s opinions/thoughts.
+**What I Learned**
+I learned about more problems that I oversaw when I completed the Heurstic Evaluation for the LA County Library website. For example, I observed that new pages would open when my particpant would access the catalog or online resources. I also discovered that the website had more problems with its consistency and standards in regards to its menu and functions. I also learned more about ways on how to improve my survey (e.g. how to better word questions and what other questions to add).
 
-Overall, I think doing more usability tests would make me more comfortable with interacting with participants/strangers in a professional setting. Making longer conversations at the beginning would help in building trust with the participant. It’s best to properly prepare as much as possible beforehand to minimize unexpected occurrences/situations but still be flexible and adaptable.
+**What Went Well**
+At first, I was concerned that the UT set up would overwhelm my participant, but she caught on quick and followed my directions. She was able to catch on to more problems on the website that my initial Heuristic EValuation did not find. She also provided me with another perspective of how she would use the website. 
+
+**What Did Not Go Well**
+I discovered that UT recording did not record any sound. My whole recording only captured the screen recording. 
+
+**Things to Improve**
+Many times I wanted to ask follow up questions to get my participant to share what she was observing on the screen. For example, based on her facial expressions and reactions, I would notice that she would see the website open new web pages and she did not like that. I also would like to improve holding back any non verbal communication that would signal I am approving my participants actions. I would sometimes find myself wanting to nod my head in agreeance when my partipant found something annoying. Most importantly, I will test new programs I use to ensure they record and capture sound.
