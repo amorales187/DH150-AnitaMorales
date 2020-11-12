@@ -30,10 +30,10 @@ Find my observation notes [here](https://docs.google.com/document/d/1qFatGOJKOdN
 
 ## Insights from the interview
 
-  * *Using the catalogue is not commnly used//7:20*
+  * *Using the catalogue is not commnly used // 7:20*
 > "probably looking for books, it's not as predominantly as you would want it I guess."
 
- * *Location of Availibility is something of interest//12:52*
+ * *Location of Availibility is something of interest // 12:52*
 > "maybe what I would have wanted would be to have actually an option where I could go ahead and enter the title, where I'm looking for the book, and I think it might allow me to honestly I didn't check for that at the moment, in the sense that I can select, specifically the library that I want to search at show."
 
 
