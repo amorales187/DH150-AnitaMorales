@@ -39,3 +39,9 @@ Find my observation notes [here](https://docs.google.com/document/d/1qFatGOJKOdN
 
 
 ## Reflection
+
+Compared to the creating activities and questions for User Testing, I found it more difficult to create a transcript and plan questions for a Contextual Inquiry. Initially, I aimed to focus on improving the overall design of the LA County Library's website. When conducting the Heuristic Evaluation and completing a user test, I found several minor and significant improvements to be done; however, it was difficult to frame my CI around all these improvements. 
+
+Going into my CI, I expected that library patrons are less likely to search for library resources when using the website. In the CI, looking for books and using the catalogue are less likely to be used, at least by my participant. Conducting the CI, allowed me to gain more insight on the website and how troubling it is to find and use the catalogue since it changing to Enterprise. It also provided me with user expectations and journey when 1)finding the catalogue 2)using the catalogue 3)placing a hold. 
+
+Next time, I will go into the CI with a narrow scope and activity for my participant. This will allow me to develop better background questions based on that activity to be done. 
