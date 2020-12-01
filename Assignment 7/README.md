@@ -8,4 +8,4 @@ DH 250: User Expereience Design
 **Process:** This high fidelity, interactive protoype was initiated when discovering the moderate challenges the LA County Library website contains for its users( i.e; overwhelming catalog options). After conducting user tests, interviews, and creating customer journey maps for my personas, I created low fidenlity wireframes that addressed the concerns and needs of each user. This protype was created using Figma.
 
 ### Tasks
-:heavy_check_mark:
+<space> :heavy_check_mark:
