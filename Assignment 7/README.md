@@ -20,7 +20,7 @@ DH 250: User Expereience Design
 
 Since the LA County Library just re-branded, I decided to re-use their color theme. I used a Google Chrome extension called "ColorZilla" to find the hex codes for each color on their website. Their main color palette that I used includes the purple (#863487), green (#8DCEAE), and yellow (#FECB00). Each of these colors are also found in their logo.
 
-![colors](colors_1.png=500x500)
+![colors](colors_1.png =500x500)
 
 ## Iteration 1 ##
 
