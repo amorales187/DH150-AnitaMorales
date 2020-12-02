@@ -30,9 +30,13 @@ Utilizing WhatFont, a Google Chrome extension that provides font information on 
 ![Iteration 1](Iteration_1.png)
 
 ### Impression Test ### 
-
+I went ahead and interviewed three of my classmates for the Impression Test. They shared that overall, the design was impressive, but shared the following designs were confusing:
+        - Search bar: Was not automatically apparent that the design was a search bar.
+        - Buttons: Change the color of the "log in" and "Place Hold" buttons 
+        - Incomplete home page: Would like to see the entire webpage 
 
 ### Cognitive Walthrough ###
+For the cognitive walkthrough, I interviewed three of my collegues. They shared that the prototype was clear and straightforward for users to successfully use the library catalog and place a hold.
 
 **Iteration 2**
 
