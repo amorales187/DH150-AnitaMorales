@@ -20,6 +20,11 @@ DH 250: User Expereience Design
 
 ![Iteration 1](Iteration_1.png)
 
+## Impression Test ## 
+
+
+## Cognitive Walthrough ##
+
 **Iteration 2**
 
 ![Iteration 2](Final_version.png)
@@ -27,3 +32,7 @@ DH 250: User Expereience Design
 ### Wireflow ###
 
 ![Wireflow](Wireflow.png)
+
+## Accessibility ##
+
+## Reflection ##
