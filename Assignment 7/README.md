@@ -25,4 +25,5 @@ DH 250: User Expereience Design
 ![Iteration 2](Final_version.png)
 
 ### Wireflow ###
-![Wireflow](Wirflow.png)
+
+![Wireflow](Wireflow.png)
