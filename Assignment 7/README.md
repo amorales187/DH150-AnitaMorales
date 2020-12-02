@@ -15,15 +15,21 @@ DH 250: User Expereience Design
 
 :heavy_check_mark:**Placing a book on hold**
 
-### High Fidelity Wireframes ###
-**Iteration 1**
+## Prototype Design ##
+**Colors**
+
+Since the LA County Library just re-branded, I decided to re-use their color theme. I used a Google Chrome extension called "ColorZilla" to find the hex codes for each color on their website. Their main color palette that I used includes the purple (#863487), green (#8DCEAE), and yellow (#FECB00). Each of these colors are also found in their logo.
+
+![Color](Colors.png)
+
+## Iteration 1 ##
 
 ![Iteration 1](Iteration_1.png)
 
-## Impression Test ## 
+### Impression Test ### 
 
 
-## Cognitive Walthrough ##
+### Cognitive Walthrough ###
 
 **Iteration 2**
 
