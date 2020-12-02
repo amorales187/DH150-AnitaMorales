@@ -22,6 +22,9 @@ Since the LA County Library just re-branded, I decided to re-use their color the
 
 ![colors](colors_1.png)
 
+**Typography**
+Utilizing WhatFont, a Google Chrome extension that provides font information on a webpage, I found that the LA County Library uses Viva Beautiful Pro font for their headers. For other texts, Gibson was used. Unfortanelty, I was not able to access Viva Beautiful Pro nor Gibson with Figma. Instead, I used Arial Rounded MT for the typography found on the prototype designs. 
+
 ## Iteration 1 ##
 
 ![Iteration 1](Iteration_1.png)
@@ -40,5 +43,8 @@ Since the LA County Library just re-branded, I decided to re-use their color the
 ![Wireflow](Wireflow.png)
 
 ## Accessibility ##
+Due to Figma plug-ins on accessibility providing varying outcomes on accessibility tests, I went forth and used Wave to examine color contrast. Overall, the design is accessible, with the excpetion of the yellow notification bar on the top of each page. Since the yellow bar is a drop down box that users can close, I will still need to return to the design and change its colors. 
+
+![Contrast](Contrast.png)
 
 ## Reflection ##
