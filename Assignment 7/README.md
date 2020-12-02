@@ -31,9 +31,14 @@ Utilizing WhatFont, a Google Chrome extension that provides font information on 
 
 ### Impression Test ### 
 I went ahead and interviewed three of my classmates for the Impression Test. They shared that overall, the design was impressive, but shared the following designs were confusing:
+
         - Search bar: Was not automatically apparent that the design was a search bar.
+        
         - Buttons: Change the color of the "log in" and "Place Hold" buttons 
+        
         - Incomplete home page: Would like to see the entire webpage 
+        
+These changes were made in Iteration #2.
 
 ### Cognitive Walthrough ###
 For the cognitive walkthrough, I interviewed three of my collegues. They shared that the prototype was clear and straightforward for users to successfully use the library catalog and place a hold.
@@ -51,4 +56,9 @@ Due to Figma plug-ins on accessibility providing varying outcomes on accessibili
 
 ![Contrast](Contrast.png)
 
+## Prototype ##
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F6R3jDsG5hcAloUtvGgtAc2%2FLA-County-Library%3Fnode-id%3D84%253A77%26scaling%3Dscale-down" allowfullscreen></iframe>
+
 ## Reflection ##
+Ensuring that the prototype fulfilled accessibility standards was the most difficult because of the lack of dependeability of tools that I found. I also found that each iteration was more difficult to address because it required to change mosre of the design. It was interesting to learn to use Figma, however, limited time was the most difficult to combat. I would love to re-design the website and change colors around, in order to meet accessibility requirements and create a smoother espexiernce for users. 
+
