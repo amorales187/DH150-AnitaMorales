@@ -18,9 +18,9 @@ DH 250: User Expereience Design
 ### High Fidelity Wireframes ###
 **Iteration 1**
 
-![Iteration 1]
+![Iteration 1](Iteration_1.png)
 
-**Iteration 1**
+**Iteration 2**
 
 ![Iteration 2](Final_version.png)
 
