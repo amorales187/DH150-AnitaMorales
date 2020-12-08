@@ -8,4 +8,4 @@
 ## 👤 Persona & Empathy Map
 
 ### Persona 1: Eva Arteaga
-![Eva Arteaga]()
+![Eva Arteaga](EVA.png)
