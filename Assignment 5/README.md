@@ -43,5 +43,6 @@
 > After dinner, Nicole opens the app to see that her friend Lisa posted a comment about a book she and her friends are reading together. She responds to the comment by clicking the “reply” button under Lisa’s comment. Nicole also found a new book she wants to read with them, so she types in the title of the book in the search bar, then clicks “share,” and shares them to her friends.
 
 #### Christine's Journey Map
-<img src="/images/Persona%202%20Journey%20Map.png">
+![Christina Journey](christina_journey.png)
+
 
