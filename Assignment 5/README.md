@@ -3,6 +3,8 @@
 ## 📖 The Purpose of UX Storytelling
 UX storytelling is important for UX designers to conduct in order to better understand their users needs and expectations. Further, UX storytelling allows designers to step into the users' shoes and create a user-centered design. 
 
+
+
 ## 👤 Persona & Empathy Map
 
 ### Persona 1: Eva Arteaga
@@ -15,6 +17,8 @@ UX storytelling is important for UX designers to conduct in order to better unde
 
 ### Persona 2: Christina Perez
 ![Christina Peres](christina.png)
+
+
 
 #### Christina's Empathy Map
 ![Christina Empathy](Christina_empathy.png)
@@ -40,7 +44,8 @@ UX storytelling is important for UX designers to conduct in order to better unde
 
 
 #### How Christine is using this product
-> Before bed, Christine looks for a new title on the library catalog. She likes to use her computer to conduct searches online 
+> Before bed, Christine looks for a new title on the library catalog. She likes to use her computer to conduct searches online for new books to read. She gets excited seeing other similar books to the ones she is looking for and would like to place those books on her "reading list" so she could complete her goal. 
+
 
 #### Christine's Journey Map
 ![Christina Journey](christina_journey.png)
