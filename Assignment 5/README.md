@@ -12,7 +12,7 @@
 
 
 #### Eva's Empathy Map
-<img src="/images/Persona%201%20Empathy%20Map.png" width="60%">
+![Eva Arteaga](eva_empathypng)
 
 
 ### Persona 2: Christina Perez
