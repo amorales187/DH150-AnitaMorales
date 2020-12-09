@@ -1,9 +1,7 @@
 # Assignment 5
 
 ## 📖 The Purpose of UX Storytelling
-* The purpose of UX storytelling is to shift your perspective to the user's perspective and see the world how they would see it.
-* Creating personas and their story lets you and your team share the same image of the users.
-* Storytelling also helps filter out any biases you or your interviewees had and focus solely on the users.
+UX storytelling is important for UX designers to conduct in order to better understand their users needs and expectations. Further, UX storytelling allows designers to step into the users' shoes and create a user-centered design. 
 
 ## 👤 Persona & Empathy Map
 
@@ -19,17 +17,18 @@
 ![Christina Peres](christina.png)
 
 #### Christina's Empathy Map
-<img src="/images/Persona%202%20Empathy%20Map.png" width="60%">
+![Christina Empathy](Christina_empathy.png)
 
 
 ## 🗺 Scenarios & Journey Map
 
 ### 1. Eva's Scenario & Journey Map
 #### Why Eva is using this product
-> Mai currently volunteers at the Children’s Hospital Los Angeles while she takes a gap year before applying to medical school. She wants to become a pediatrician, so being able to connect to children and their parents is something she really values. Recently, a 12-year old patient she helps take care of asked Mai what books she recommends. Thus, Mai decided to explore children and young adult books she can recommend to patients. She wants to log books in a creative, journal-like way with colors and maybe even drawings, so her patients would also feel encouraged to log books and share them. However, she wants to be able to digitize her logs so more people can have access to them.
+> Eva is using the LA County Library's online cataloge to search, find, and check-out books for her children. With the temporary closures of all LA County Library branches, she and her family are no longer able to visit the library and look through the collection to find a new book to read. Instead, the library offers Side Walk Serive at their libraries. Patrons can place items on hold through their cataloge and pick up their items when they are ready. 
+
 
 #### How Eva is using this product
-> During her lunch break, Mai turns her phone on to log a book: Charlotte’s Web. When she opens the application, there is a button to “log book” in the menu, so she presses that. A new window pops up and she fills in the empty spaces that say “What’s the title?” “Who’s the author?” “What’s the genre?” “What did you think of this book?”... and so on. After typing those sections, Mai looks at the book log journal-entry, and decides to add some color. She clicks the edit button, and clicks the option to highlight certain sections and change the color and font of the words. Feeling satisfied, she presses the “publish” button, where she can share it through various social media and even print it as a pdf. 
+> After work, Eva goes on the LA County Library website using her laptop. She calls over her kids so they could look through the catalog together. When they are on the home page, they have a difficult time finding the catalog. Not even the Teen & Kids tab had a catalog for the kids. They finally see a search bar drop down when clicking on "Show Search" in the middle of the header on the home page.
 
 #### Eva's Journey Map
 ![Eva Arteaga Journey](Eva_Journey.png)
@@ -37,10 +36,11 @@
 
 ### 2. Christine's Scenario & Journey Map
 #### Why Christine is using this product
-> Nicole just moved to Irvine from New York after getting married. She really misses her four best friends from back in New York. They used to have a book club where every month, they read one book and meet at her apartment to talk about it over dinner. Nicole and her friends still want to have an “online book club,” where they can discuss books and recommend new books to each other. She also wants to be able to track and organize all of the books she’s read by herself and with her friends.
+> Christine is a "regalur" patron who often visits and uses the resources and LA County Library websites. Now that she using computers and her phone more often, she decided to try to finish 20 books by the end of the year to give her eyes a break from looking at a screen. Before the change to a new catalog, Eva would often use the library catalog to place items on hold. She continues to use the library cataloge to check out more books. She does not know why the LA County Library decided to change their catalog vendor and interface.
+
 
 #### How Christine is using this product
-> After dinner, Nicole opens the app to see that her friend Lisa posted a comment about a book she and her friends are reading together. She responds to the comment by clicking the “reply” button under Lisa’s comment. Nicole also found a new book she wants to read with them, so she types in the title of the book in the search bar, then clicks “share,” and shares them to her friends.
+> Before bed, Christine looks for a new title on the library catalog. She likes to use her computer to conduct searches online 
 
 #### Christine's Journey Map
 ![Christina Journey](christina_journey.png)
