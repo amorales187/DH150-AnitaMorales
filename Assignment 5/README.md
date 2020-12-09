@@ -12,11 +12,11 @@
 
 
 #### Eva's Empathy Map
-![Eva Arteaga](eva_empathypng)
+![Eva Arteaga](eva_empathy.png)
 
 
 ### Persona 2: Christina Perez
-<img src="/images/Persona2.png">
+![Christina Peres](christina.png)
 
 #### Christina's Empathy Map
 <img src="/images/Persona%202%20Empathy%20Map.png" width="60%">
